@@ -38,6 +38,10 @@ public class Estudiante {
 	public void setId(int id) {
 		this.id = id;
 	}
+	public Estudiante() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 
